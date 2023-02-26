@@ -1,2 +1,2 @@
 # my_first_repo
-Practice repo for learning Git.
+Hello world, Practice repo for learning Git.
